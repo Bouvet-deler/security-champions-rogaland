@@ -20,7 +20,7 @@ Purpose of this document is to mention activities for the security champions net
 - Conferences
   - [QualityOne - 13th September](https://event.bouvet.no/events/view/66a5dc7b-f753-45c1-8e26-fcbec8cd1ff9)
   - [BSides Oslo - 21st September](https://bsidesoslo.no/)
-  - [Bouvet One - ?? October]()
+  - [BouvetOne+Regionsmøte - 19th October](https://event.bouvet.no/events/view/4c11d7ef-2ac2-4d99-bfcd-fa6eb27da4d5)
 
 ### Q1 / Q2 / Q3 - 2024
 
