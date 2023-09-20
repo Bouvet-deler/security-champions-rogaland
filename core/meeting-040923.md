@@ -10,7 +10,7 @@ Purpose of this document is to mention activities for the security champions net
 
 - Workshops
   - [OWASP TOP10 - 11th September](https://event.bouvet.no/events/view/df25e177-eb94-46ce-b7df-68afdc05b491)
-  - [CSP - Content Security Policy Workshop - 22nd September](https://event.bouvet.no/events/view/3fca7ad4-1616-496f-86ee-fd6f6de68be5)
+  - [CSP - Content Security Policy Workshop - 27th October](https://event.bouvet.no/events/view/732c2c07-6e83-4599-8425-23181350a1e4)
   - [OWASP TOP10 - 12th Desember](https://event.bouvet.no/events/view/a5c1651e-89d7-43c6-bf98-c59e0f0057c0)
 - Gatherings for our network (Virtual / Physical)
   - [Security Champions Norway - Meetup nr.6 Host: DNB](https://event.bouvet.no/events/view/5fc3acd6-d694-448d-ac8e-f21f92e0b7a7)
